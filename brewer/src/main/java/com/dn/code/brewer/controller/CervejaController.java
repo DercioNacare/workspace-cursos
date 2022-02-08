@@ -29,12 +29,12 @@ public class CervejaController
 		if(result.hasErrors())
 		{
 			attributes.addFlashAttribute("mensagem", "Erro no formulario");
-			System.out.println(">>>> tem erro sim");
 			
 			return new ModelAndView("redirect:/cervejas/novo");
 		}
-		System.out.println(">>>> cadastrando " + cerveja.getSku());
-	
+			
+		attributes.addFlashAttribute("mensagem", "Cerveja cadastrada com sucesso");
+		
 		return new ModelAndView("redirect:/cervejas/novo");
 	}
 }
