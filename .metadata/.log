@@ -2560,3 +2560,48 @@ java.net.UnknownHostException: www.genuitec.com
 
 !ENTRY Activator 1 0 2022-02-08 12:35:04.495
 !MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:39:42.650
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:39:44.717
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:39:44.720
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:39:44.722
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:39:44.723
+!MESSAGE buffering callback sts4.classpath.MInvEkuw brewer false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:39:44.723
+!MESSAGE executing callback sts4.classpath.MInvEkuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:39:44.738
+!MESSAGE executing callback sts4.classpath.MInvEkuw SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-02-08 12:39:45.733
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:39:46.121
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:40:09.659
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:40:10.391
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:43:44.269
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:43:44.845
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:44:40.001
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:44:40.628
+!MESSAGE Has main method computation for project 'brewer'
