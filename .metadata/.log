@@ -2251,3 +2251,312 @@ Binding(CTRL+SHIFT+T,
 
 !ENTRY org.eclipse.ui 2 2 2022-02-06 14:11:08.314
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2022-02-08 11:59:50.565 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-02-08 12:00:31.710
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-02-08 12:00:31.710
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6b5c4b75,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@453de9d0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.theming.ui 4 0 2022-02-08 12:00:45.877
+!MESSAGE www.genuitec.com
+!STACK 0
+java.net.UnknownHostException: www.genuitec.com
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:567)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:645)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:290)
+	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:497)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:600)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:379)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1120)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1653)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308)
+	at com.genuitec.eclipse.theming.ui.IconDownloaderJob.getApprovedDefinitions(IconDownloaderJob.java:86)
+	at com.genuitec.eclipse.theming.ui.IconDownloaderJob.run(IconDownloaderJob.java:52)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2022-02-08 12:02:55.909
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:02:57.779
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:02:57.957
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:02:58.026
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:02:58.084
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:02:59.567
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:09.115
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:09.116
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3f89055a[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=553)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:09.163
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2022-02-08 12:14:09.244
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:09.260
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2022-02-08 12:14:09.867
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:14:10.242
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.411
+!MESSAGE Boot LS startup time from start to initialized: 7237ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.758
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MInvEkuwisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.760
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.762
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.764
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.764
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.764
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MInvEkuw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.769
+!MESSAGE classpath=68 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.770
+!MESSAGE buffering callback sts4.classpath.MInvEkuw brewer false 68
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:16.770
+!MESSAGE executing callback sts4.classpath.MInvEkuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:14:18.254
+!MESSAGE executing callback sts4.classpath.MInvEkuw SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2022-02-08 12:14:39.504
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2022-02-08 12:15:07.487
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:15:09.543
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:15:09.546
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:15:09.549
+!MESSAGE classpath=69 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:15:09.550
+!MESSAGE buffering callback sts4.classpath.MInvEkuw brewer false 69
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:15:09.550
+!MESSAGE executing callback sts4.classpath.MInvEkuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:15:09.566
+!MESSAGE executing callback sts4.classpath.MInvEkuw SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-02-08 12:15:10.400
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:15:10.724
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:15:21.655
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:15:22.277
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:15:39.900
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:15:40.439
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:17:03.905
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:17:04.429
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:17:25.681
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:17:25.743
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:17:25.915
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:19:26.059
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:19:26.209
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:20:48.374
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:20:48.543
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:22:24.987
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:22:25.942
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:23:16.686
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:23:17.298
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:23:32.613
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:23:33.616
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:23:45.139
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:23:45.944
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:24:27.395
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:24:27.964
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:26:25.968
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:26:33.719
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:33.720
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:33.723
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:33.724
+!MESSAGE buffering callback sts4.classpath.MInvEkuw brewer false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:33.724
+!MESSAGE executing callback sts4.classpath.MInvEkuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:33.741
+!MESSAGE executing callback sts4.classpath.MInvEkuw SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-02-08 12:26:34.510
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:26:34.706
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:26:39.393
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:39.394
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:39.396
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:39.397
+!MESSAGE buffering callback sts4.classpath.MInvEkuw brewer false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:39.398
+!MESSAGE executing callback sts4.classpath.MInvEkuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 12:26:39.412
+!MESSAGE executing callback sts4.classpath.MInvEkuw SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-02-08 12:26:39.582
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:27:42.490
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:27:43.067
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:29:55.056
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:29:55.727
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:30:14.231
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:30:14.652
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:30:35.701
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:30:35.821
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:33:58.745
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:33:59.351
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:35:03.876
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 12:35:04.495
+!MESSAGE Has main method computation for project 'brewer'
