@@ -2665,3 +2665,63 @@ java.net.UnknownHostException: www.genuitec.com
 
 !ENTRY Activator 1 0 2022-02-08 13:14:22.495
 !MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 14:08:37.509
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MInvEkuw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 14:08:37.512
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.MInvEkuw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 14:08:37.515
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-08 14:08:37.517
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MInvEkuw => OK
+
+!ENTRY Activator 1 0 2022-02-08 14:18:05.700
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:05.813
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:05.842
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:06.431
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:06.493
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:06.553
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:06.656
+!MESSAGE Has main method computation for project 'food-api'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:07.154
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:07.302
+!MESSAGE Has main method computation for project 'food-api'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:07.337
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:07.541
+!MESSAGE Has main method computation for project 'food-api'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:07.566
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:07.950
+!MESSAGE Has main method computation for project 'food-api'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:07.986
+!MESSAGE Has main method computation for project 'brewer'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:08.408
+!MESSAGE Has main method computation for project 'food-api'
+
+!ENTRY Activator 1 0 2022-02-08 14:18:08.409
+!MESSAGE Has main method computation for project 'brewer'

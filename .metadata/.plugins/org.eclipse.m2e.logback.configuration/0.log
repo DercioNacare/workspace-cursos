@@ -318,3 +318,23 @@
 2022-02-08 13:14:22,490 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-02-08 13:14:22,490 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-02-08 13:14:22,491 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dercio/Desenvolvimento/workspace-cursos/brewer/src/test/resources
+2022-02-08 14:18:06,247 [Worker-50: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dn.code:food-api:0.0.1-SNAPSHOT @ /home/dercio/Desenvolvimento/workspace-cursos/food-api/pom.xml.
+2022-02-08 14:18:06,527 [Worker-50: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-api/src/main/java
+2022-02-08 14:18:06,527 [Worker-50: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-api/src/main/resources
+2022-02-08 14:18:06,530 [Worker-50: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-api/src/main/resources
+2022-02-08 14:18:06,539 [Worker-50: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-api/src/test/java
+2022-02-08 14:18:06,741 [Worker-50: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-02-08 14:18:06,743 [Worker-50: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-02-08 14:18:07,124 [Worker-50: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dn.code:food-api:0.0.1-SNAPSHOT @ /home/dercio/Desenvolvimento/workspace-cursos/food-api/pom.xml.
+2022-02-08 14:18:07,369 [Worker-50: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-api/src/main/java
+2022-02-08 14:18:07,369 [Worker-50: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-api/src/main/resources
+2022-02-08 14:18:07,372 [Worker-50: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /food-api/src/main/resources
+2022-02-08 14:18:07,379 [Worker-50: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /food-api/src/test/java
+2022-02-08 14:18:07,641 [Worker-50: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-02-08 14:18:08,383 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-08 14:18:08,383 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-08 14:18:08,384 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-08 14:18:08,385 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-08 14:18:08,387 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-08 14:18:08,387 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-08 14:18:08,387 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/dercio/Desenvolvimento/workspace-cursos/food-api/src/test/resources
